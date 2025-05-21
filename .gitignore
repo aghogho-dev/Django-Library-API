@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 .env 
+books/.env
 
 # C extensions
 *.so
